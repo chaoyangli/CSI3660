@@ -1,2 +1,0 @@
-#One hundred most frequently used commandsl
-1-10 man, info: e.g., echo  `info man`>test.txt |more test.txt         # ` is a grave accent
