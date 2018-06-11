@@ -1,0 +1,7 @@
+1. Open a Root Terminal and type visudo (to access and edit the list)
+2. Navigate to the bottom of the sudoers file that is now displayed in the terminal.
+Just under the line that looks like the following:
+root ALL = (ALL) ALL
+and the following (replacing user with your actual username such as Kevin)
+user ALL=(ALL) ALL
+Now save the file (by type wq then press Enter).
