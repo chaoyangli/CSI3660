@@ -5,7 +5,6 @@ tty: /dev/pts/4                                                   # the current 
 echo `top` > /dev/pts/4                                           # does not work   
 which ls                                                          #show the path of command
 who                                                               # who is logging
-is not in the sudoers file, this incident will be reported.
 watch ps                                                          # every two seconds execute cmd.   
 ping google.com &
 TTL time to live
