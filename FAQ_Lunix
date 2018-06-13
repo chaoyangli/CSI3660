@@ -9,3 +9,4 @@ is not in the sudoers file, this incident will be reported.
 watch ps                                                          # every two seconds execute cmd.   
 ping google.com &
 TTL time to live
+to change the display to sleep:System-->power management prereferences--->on AC Power----> display
